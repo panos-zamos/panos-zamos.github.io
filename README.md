@@ -1,4 +1,2 @@
-panos-zamos.github.io
-=====================
-
-GitHub pages test
+## Hello World 
+_by zamos :)_
